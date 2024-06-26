@@ -1,5 +1,3 @@
-Absolutely! Here's the Markdown file you requested, properly formatted with headings, code blocks, and clear organization:
-
 # Resources
 
 Github Repository: [https://github.com/instructlab](https://github.com/instructlab)
