@@ -1,4 +1,7 @@
-# Resources
+# Techzone_Demo_installation.
+This instruction page explains how to set up a Techzone instance and create a taxonomy for testing.
+
+## Resources
 
 Github Repository: [https://github.com/instructlab](https://github.com/instructlab)
 
