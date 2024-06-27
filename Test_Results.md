@@ -4,6 +4,7 @@ This table evaluates the accuracy of a model's responses about the 2024 Oscars b
 
 * **Inaccuracies Before Training:** The model frequently provided incorrect details about the event date, nominees, and award winners.
 * **Improvements After Training:** While some aspects improved (e.g., correctly identifying the host), errors remain in other areas like the ceremony date and musical performances.
+* **Accuracy:** a value of 1 indicates, that the model got the response in "Model Output After Training" semantically identical to the actual facts. A value of 0 indicates that the model did not achieve a feasable result. 
 
 
 | Accuracy | Prompt | Expected Output | Model Output Before Training | Model Output After Training |
