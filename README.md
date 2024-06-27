@@ -3,6 +3,8 @@ This repository describes how to set um InstructLab as a Demo tool on different 
 
 ## Test_Results.md
 
+[Test Results](https://github.ibm.com/Jan-Wardenga/InstructLab/blob/main/Test_Results.md)
+
 **Purpose:** This document presents the results of various tests, likely focused on evaluating a software or system.
 
 **Content Summary:**
@@ -15,6 +17,8 @@ This repository describes how to set um InstructLab as a Demo tool on different 
 
 ## Local_Demo_Installation.md
 
+[Local Demo Installation](https://github.ibm.com/Jan-Wardenga/InstructLab/blob/main/Test_Results.md)
+
 **Purpose:** A step-by-step guide to installing and utilizing the InstructLab Command-Line Interface (CLI) on a Mac computer.  Specifically geared towards working with AI models and training them on custom datasets.
 
 **Content Summary:**
@@ -24,6 +28,9 @@ This repository describes how to set um InstructLab as a Demo tool on different 
 - Link to GitHub repository for supplementary resources
 
 ## Techzone_Demo_Installation.md
+
+[Techzone Demo Installation](https://github.ibm.com/Jan-Wardenga/InstructLab/blob/main/Techzone_Demo_Installation.md)
+
 
 **Purpose:**  Provides instructions for installing a demonstration likely associated with a platform or tool named Techzone.
 
